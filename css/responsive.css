@@ -1,0 +1,1620 @@
+/*=========================
+extra small device satrts
+==========================*/
+@media(max-width:575px){
+    /*====================
+       nav part starts
+    =======================*/
+    .navbar .navbar-brand {
+        padding:0 15px !important;
+    }
+    .navbar .navbar-brand img{
+        margin-left: -15px;
+    }
+    .navbar .navbar-toggler {
+        border-color: #fff;
+        margin-left: 264px;
+        margin-top: -25px;
+    }
+    .navbar .navbar-toggler i{
+        color:#fff;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        margin-top: 10px;
+        margin-left: 2px;
+        width: 40%;
+    }
+    /*====================
+       nav part ends
+    =======================*/
+
+    /*====================
+      banner part starts
+    =====================*/
+    #banner {
+        padding-top: 80px;
+    }
+    #banner .banner-text h3 {
+        height:100px;
+        font-size: 25px;
+        margin-left:40px;
+        margin-top:65px;
+    }
+    #banner .banner-image img {
+        margin-top: -7px;
+        margin-left: -24px;
+        width: 230%;
+    }
+    /*====================
+      banner part ends
+    =====================*/
+
+    /*====================
+     service part starts
+    =====================*/
+    #service {
+        padding-top: 70px;
+        padding-bottom: 0px !important;
+    }
+    #service .service-head p{
+        padding-left: 0px;
+        font-size: 16px;
+    }
+    #service .service-content {
+        margin-top: 40px;
+    }
+    #service .service-content h4 {
+        margin-top: 15px; 
+    }
+    #service .service-content p {
+        margin-top: 20px;
+    }
+    #service .heading h4{
+        padding-top: 90px;
+        padding-bottom: 34px;
+        font-size: 30px;
+    }
+    #service .heading p {
+        line-height: 24px;
+        padding: 0 11px 0 18px;
+    }
+    #service .rocket-img img{
+        width: 20%;
+    }
+    #service .service-text {
+        margin-top: 90px;
+        margin-bottom: 38px;
+    }
+    #service .service-text a {
+        font-size: 11px;
+    }
+    #service .service-text h4 {
+        margin-top: 35px;
+        line-height: 32px;
+        font-size: 18px;
+    }
+    #service .service-text p {
+        color: #000;
+        line-height: 25px;
+        padding-top: 10px;
+        padding-bottom: 35px;
+        padding-right: 6px;
+        font-size: 13px;
+    }
+    #service .service-img .img-one img {
+        top: 15px;
+        left: 0px;
+        width: 90%;
+    }
+    #service .service-img .img-two img {
+        right: 44px;
+        top: 42px;
+        width: 71%;
+    }
+    #service .service-img .img-three img {
+        right: 153px;
+        top: 70px;
+        width: 52%;
+    }
+    #service .service-img .img-one-one img {
+        left: 10px;
+        width: 90%;
+        margin-bottom: 70px !important;
+    }
+    #service .service-img .img-two-two img {
+        top: 134px;
+        left: 39px;
+        width: 71%;
+    }
+    #service .service-img .img-three-three img {
+        left: 151px;
+        top: 155px;
+        width: 52%;
+    }
+    #service .arrow-img {
+        margin-top: 95px;
+    }
+    #service .main-img .cover-one img,
+    #service .main-img .cover-two img,
+    #service .main-img .cover-three img
+    {
+        display: none;
+    }
+    /*====================
+     service part ends
+    =====================*/
+
+    /*====================
+     work part starts
+    =====================*/
+    #work {
+        padding-top: 60px;
+        padding-bottom: 0px !important;
+    }
+    #work .work-head h4 {
+        margin-bottom: 20px !important;
+        font-size: 30px;
+    }
+    #work .work-head p {
+        padding: 0px 10px;
+        margin-bottom: 35px !important;
+    }
+    #work .work-item-one .work-text h3,
+    #work .work-item-two .work-text h3,
+    #work .work-item-three .work-text h3,
+    #work .work-item-four .work-text h3,
+    #work .work-item-five .work-text h3
+    {
+        font-size: 60px;
+    }
+    #work .work-item-one .work-text h4 {
+        margin-left: 175px;
+        margin-top: -50px;
+    }
+    #work .work-item-one .icon{
+        width: 90px;
+        height: 90px;
+        margin-top: 31px;
+        margin-left: 103px;
+    }
+    #work .work-item-one .icon img{
+        width: 44px;
+        margin-top: -6px;
+        margin-left: -10px;  
+    }
+    #work .work-item-one p{
+        margin-top: 30px;
+        padding-right: 0px;
+    }
+    #work .work-item-two .work-text h3 {
+        margin-left: 10px;
+    }
+    #work .work-item-two .work-text h3{
+        margin-left: 22px;
+    }
+    #work .work-item-two .work-text h4 {
+        margin-top: -15px;
+    }
+    #work .work-item-two .icon{
+        width: 90px;
+        height: 90px;
+        margin-top: 31px;
+        margin-left: 103px;
+        margin-bottom: 53px !important;
+    }
+    #work .work-item-two .icon img {
+        width: 32px;
+        margin-top: -19px;
+        margin-left: -4px;
+    }
+    #work .work-item-two p{
+        padding-right: 0px;
+    }
+    #work .work-item-three .work-text{
+        margin-top: -35px;
+    }
+    #work .work-item-three .work-text h4 {
+        margin-left: 139px;
+        margin-top: -11px;
+    }
+    #work .work-item-three .icon{
+        width: 90px;
+        height: 90px;
+        margin-top: 3px;
+        margin-left: 103px;
+    }
+    #work .work-item-three .icon img {
+        width: 32px;
+        margin-top: -19px;
+        margin-left: -4px;
+    }
+    #work .work-item-three  p{
+        margin-top: 30px;
+        padding-right: 0px;
+    }
+    #work .work-item-four h4{
+        margin-top: -10px;
+    }
+    #work .work-item-four .work-text h3 {
+        margin-left: 52px;
+    }
+    #work .work-item-four .work-text h4 {
+        margin-top: -15px;
+    }
+    #work .work-item-four .icon{
+        width: 90px;
+        height: 90px;
+        margin-top: 31px;
+        margin-left: 103px;
+        margin-bottom: 53px !important;
+    }
+    #work .work-item-four .icon img {
+        width: 32px;
+        margin-top: -19px;
+        margin-left: -4px;
+    }
+    #work .work-item-four p {
+        margin-top: -36px;
+        padding-right: 0px;
+    }
+    #work .work-item-five .work-text{
+        margin-top: -35px;
+    }
+    #work .work-item-five .work-text h4 {
+        margin-left: 127px;
+        margin-top: -9px;
+    }
+    #work .work-item-five .icon{
+        width: 90px;
+        height: 90px;
+        margin-top: 3px;
+        margin-left: 103px;
+    }
+    #work .work-item-five .icon img {
+        width: 32px;
+        margin-top: -19px;
+        margin-left: -4px;
+    }
+    #work .work-item-five  p{
+        margin-top: 30px;
+        padding-right: 0px;
+    }
+    /*====================
+     work part ends
+    =====================*/
+
+    /*====================
+     fact part starts
+    =====================*/
+    #fact {
+        padding-top: 60px;
+        padding-bottom: 28px !important;
+    }
+    #fact .fact-head h4 {
+        margin-bottom: 30px !important;
+        font-size: 30px;
+    }
+    #fact .fact-head p {
+        padding: 0px 10px;
+        margin-bottom: 40px !important;
+    }
+    #fact .fact-main {
+        margin-left: 15px;
+    }
+    #fact .fact-item-one h4,
+    #fact .fact-item-two h4,
+    #fact .fact-item-three h4,
+    #fact .fact-item-four h4,
+    #fact .fact-item-five h4
+    {
+        padding-top: 20px;
+        margin-bottom: 18px !important;
+        margin-left: 13px;
+        font-size: 32px;
+    }
+    #fact .fact-item-one,
+    #fact .fact-item-two,
+    #fact .fact-item-three,
+    #fact .fact-item-four,
+    #fact .fact-item-five
+    {
+        height: 225px;
+        width: 288px;
+    }
+    #fact .fact-item-one h5,
+    #fact .fact-item-two h5,
+    #fact .fact-item-three h5,
+    #fact .fact-item-four h5,
+    #fact .fact-item-five h5
+    {
+        margin-left: 12px;
+    }
+
+    #fact .fact-item-one img,
+    #fact .fact-item-two img,
+    #fact .fact-item-three img,
+    #fact .fact-item-four img,
+    #fact .fact-item-five img
+    {
+        margin-top: 25px;
+        margin-left: 14px;
+    }
+    #fact .fact-item-one img:hover,
+    #fact .fact-item-two img:hover,
+    #fact .fact-item-three img:hover,
+    #fact .fact-item-four img:hover,
+    #fact .fact-item-five img:hover
+    {
+        transform: scale(0.8);
+    }
+    /*====================
+     fact part ends
+    =====================*/
+
+    /*====================
+     people part starts
+    =====================*/
+    #people .people-head h4 {
+        margin-bottom: 18px !important;
+        font-size: 30px;
+    }
+    #people .people-head p {
+        padding: 0px 10px;
+        margin-bottom: 0px !important;
+    }
+    #people .t-shirt {
+        margin-bottom: 30px !important;
+        margin-top: 30px;
+    }
+    #people .text-left-content .text-left .people-content{
+        padding: 0 28px;
+        margin-top: 10px;
+        margin-left: 36px;
+        margin-bottom: 42px;
+    }
+    #people .text-right-content .text-right .people-content{
+        padding: 0 28px;
+        margin-left: 36px;
+        margin-bottom: 15px;
+    }
+    #people  .text-left-content .text-left img,
+    #people  .text-right-content .text-right img
+    {
+        display:none;
+    }
+    #people .text-left .people-content h4,
+    #people .text-right .people-content h4
+    {
+        margin-top: 20px;
+        margin-bottom: 10px !important;
+        font-size: 15px;   
+    }
+    #people .text-left .people-content p
+    #people .text-right .people-content p
+    {
+        margin-top: 10px;
+    }
+    #people .text-left .people-content .icons .twitter i,
+    #people .text-left .people-content .icons .facebook i,
+    #people .text-left .people-content .icons .google i,
+    #people .text-left .people-content .icons .pinterest i,
+    #people .text-left .people-content .icons .linkedin i,
+    #people .text-left .people-content .icons .dribbble i,
+    #people .text-left .people-content .icons .behance i
+    {
+        width: 22px;
+        height: 22px;
+        line-height: 22px;
+        font-size: 13px;
+    }
+    #people .text-right .people-content .icons .twitter i,
+    #people .text-right .people-content .icons .facebook i,
+    #people .text-right .people-content .icons .google i,
+    #people .text-right .people-content .icons .pinterest i,
+    #people .text-right .people-content .icons .linkedin i,
+    #people .text-right .people-content .icons .dribbble i,
+    #people .text-right .people-content .icons .behance i
+    {
+        width: 22px;
+        height: 22px;
+        line-height: 22px;
+        font-size: 13px;
+    }
+    #people .button {
+        margin-top: 20px;
+        margin-bottom: 50px !important;
+    }
+    /*====================
+    people part ends
+    =====================*/
+
+    /*====================
+    gallery part starts
+    =====================*/
+    #gallery ul {
+        margin-top: 30px;
+    }
+    #gallery ul li {
+        margin-right: 11px;
+        padding: 9px 9px;
+        margin-top: 14px;
+    }
+    #gallery ul li a{
+        font-size:13px;
+    }
+    #gallery .gallery-main{
+        margin-top:45px;
+    }
+    /*====================
+    gallery part ends
+    =====================*/
+
+    /*====================
+    price part starts
+    =====================*/
+    #price {
+        padding-bottom: 30px !important;
+    }
+    #price .button {
+        margin-top: 45px;
+        margin-bottom: 45px !important;
+    }
+    #price .price-head h4 {
+        margin-bottom: 30px !important;
+        font-size: 30px;
+    }
+    #price .price-head p {
+        font-size: 14px;
+        padding: 0px 3px;
+        margin-bottom: 44px !important;
+    }
+    #price .price-item-one,
+    #price .price-item-two,
+    #price .price-item-three
+    {
+        width: 284px;
+        height: 654px;
+        margin-bottom: 6px !important;
+        margin-left: 19px;
+    }
+    #price .price-item-one:hover,
+    #price .price-item-two:hover,
+    #price .price-item-three:hover
+    {
+        margin-top:-10px;
+    }
+    #price .price-item-one .price-text h4,
+    #price .price-item-two .price-text h4,
+    #price .price-item-three .price-text h4
+    {
+        padding-top: 25px;
+        padding-bottom: 25px !important;
+    }
+    #price .price-item-one .price-text h5,
+    #price .price-item-two .price-text h5, 
+    #price .price-item-three .price-text h5
+    {
+        font-size: 15px;
+    }
+    #price .price-item-one .price-text h3,
+    #price .price-item-two .price-text h3,
+    #price .price-item-three .price-text h3
+    {
+        font-size: 60px;
+    }
+    #price .price-item-one .price-text h3 span,
+    #price .price-item-two .price-text h3 span,
+    #price .price-item-three .price-text h3 span
+    {
+        font-size: 50px;
+    }
+    #price .price-item-one .price-text p,
+    #price .price-item-two .price-text p,
+    #price .price-item-three .price-text p
+    {
+        padding: 0 14px;
+        padding-bottom: 35px !important;
+    }
+    #price .price-item-one .price-details h4,
+    #price .price-item-two .price-details h4,
+    #price .price-item-three .price-details h4
+    {
+        padding-top: 35px;
+        padding-bottom: 20px !important;
+    }
+    #price .price-item-one .price-details ul li,
+    #price .price-item-two .price-details ul li,
+    #price .price-item-three .price-details ul li
+    {
+        line-height: 24px;
+    }
+    #price .price-item-one .price-details .btn-one a,
+    #price .price-item-two .price-details .btn-one a,
+    #price .price-item-three .price-details .btn-one a
+    {
+        padding: 15px 9px;
+    }
+    /* price part ends */
+
+    /* blog part starts */
+    #price .blog-head h4 {
+        padding-top: 0px;
+        font-size: 30px;
+    }
+    #price .blog-head p {
+        font-size: 14px;
+        padding: 0px 3px;
+        margin-bottom: 29px !important;
+    }
+    #price .blog-item .blog-img img{
+        display:none;
+    }
+    #price .blog-item .blog-text {
+        padding-left: 20px;
+        margin-top: 10px;
+        margin-right: -29px;
+        margin-left: -52px;
+        padding-right: 11px;
+    }
+    #price .blog-item .blog-text h4 {
+        margin-bottom: 8px !important;
+        font-size: 20px;
+    }
+    #price .blog-item .blog-text ul li:first-of-type {
+        margin-bottom: 8px !important;
+        line-height: 23px;
+        padding-right: 0px;
+    }
+    #price .blog-item .blog-text ul li:last-of-type {
+        margin-bottom: 8px !important;
+        line-height: 23px;
+        padding-right: 0px;
+    }
+    #price .blog-item .blog-text .blog-content p{
+        margin-top: 18px;
+        margin-top: 13px;
+    }
+    #price .blog-item .blog-text .blog-content p:first-of-type {
+        padding: -5px;
+        margin-right: 10px;
+    }
+    /* blog part ends */
+
+    /* newsletter part starts */
+    #price .newsletter-form .form h5 {
+        padding: 15px 20px;
+        margin-left: 2px;
+        margin-top: 5px;
+    }
+    #price .newsletter-form .text h5 {
+        margin-left: -245px;
+        margin-top: 73px;
+    }
+    /* newsletter part ends */
+
+    /*====================
+    price part ends
+    =====================*/
+
+    /*====================
+    touch part starts
+    =====================*/
+    #touch {
+        padding-top: 60px;
+        padding-bottom: 8px !important;
+    }
+    #touch .touch-head h4 {
+        margin-bottom: 35px !important;
+        font-size: 30px;
+    }
+    #touch .touch-head p {
+        font-size: 14px;
+        padding: 0px 3px;
+        margin-bottom: 40px !important;
+    }
+    #touch form input{
+        margin-bottom: 10px;
+    }
+    /* info part starts */
+    #touch input {
+        padding-top: 7px;
+        padding-right: 154px;
+        padding-bottom: 8px !important;
+        font-size: 14px;
+    }
+    #touch textarea {
+        padding-right: 165px;
+        height: 120px;
+    }
+    #touch .btn {
+        padding: 10px 105px 10px 111px;
+        font-size: 13px;
+    }
+    /* info part ends */
+    /*====================
+    touch part ends
+    =====================*/
+
+    /*====================
+     social part starts
+    =====================*/
+    #social {
+        padding-top: 50px;
+        padding-bottom: 40px !important;
+    }
+    #social .social-icon i {
+        margin-right: 20px;
+    }
+    /*====================
+    social part ends
+    =====================*/
+}
+
+/*=====================
+small device satrts
+=======================*/
+@media (min-width:576px) and (max-width:767px){
+    /*====================
+       nav part starts
+    =======================*/
+    .navbar .navbar-toggler{
+        border-color: #fff;
+        margin-top: 9px;
+    }
+    .navbar .navbar-toggler i{
+        color:#fff;
+    }
+    /*===================
+       nav part ends
+    =====================*/
+    
+    /*====================
+      banner part starts
+    =====================*/
+    #banner{
+        padding-top:180px;
+    }
+    #banner .banner-text h3 {
+        height:100px;
+        font-size: 28px;
+    }
+    #banner .banner-image img {
+        margin-top: -167px;
+        margin-left: 218px;
+        width: 60%;
+    }
+    /*====================
+      banner part ends
+    =====================*/
+
+    /*====================
+     service part starts
+    =====================*/
+    #service {
+        padding-top: 72px;
+        padding-bottom: 185px;
+    }
+    #service .service-head p {
+        padding: 0 12px;
+        font-size: 19px;
+    }
+    #service .service-content {
+        margin-top: 40px;
+    }
+    #service .service-content h4 {
+        margin-top: 20px;
+    }
+    #service .service-content p {
+        margin-top: 15px;
+    }
+    #service .heading h4 {
+        padding-top: 90px;
+        padding-bottom: 35px;
+    }
+    #service .heading p {
+        line-height: 23px;
+        padding: 0 63px 0 46px;
+    }
+    #service .rocket-img {
+        margin-top: 20px;
+    }
+    #service .service-text {
+        margin-top: 65px;
+    }
+    #service .service-text a {
+        font-size: 11px;
+    }
+    #service .service-text h4 {
+        margin-top: 35px;
+        line-height: 32px;
+        font-size: 19px;
+    }
+    #service .service-text p {
+        line-height: 25px;
+        padding-top: 10px;
+        padding-bottom: 35px;
+        padding-right: -9px;
+        font-size: 13px;
+    }
+    #service .service-img .img-one img {
+        top: 15px;
+        left: 0px;
+        width: 65%;
+    }
+    #service .service-img .img-two img {
+        right: 114px;
+        top: 39px;
+        width: 55%;
+    }
+    #service .service-img .img-three img {
+        right: 287px;
+        top: 70px;
+        width: 50%;
+    }
+    #service .service-img .img-one-one img {
+        left: 34px;
+        width: 65%;
+        margin-bottom: 138px !important;
+    }
+    #service .service-img .img-two-two img {
+        top: 134px;
+        left: 62px;
+        width: 55%;
+    }
+    #service .service-img .img-three-three img {
+        left: 184px;
+        top: 145px;
+        width: 50%;
+    }
+    #service .main-img .cover-one img {
+        width: 101%;
+        margin-top: -10px;
+    }
+    #service .main-img .cover-two img {
+        right: 45px;
+        width: 95%;
+    }
+    #service .main-img .cover-three img {
+        left: 36px;
+        top: -78px;
+        width: 91%;
+    }
+    /*====================
+     service part ends
+    =====================*/
+
+    /*====================
+     work part starts
+    =====================*/
+    #work {
+        padding-top: 50px;
+        padding-bottom: 0px !important;
+    }
+    #work .work-head h4{
+        font-size: 28px;
+    }
+    #work .work-head p {
+        padding: 0px 51px;
+        margin-bottom: 75px !important;
+    }
+    #work .work-item-one .work-text h3,
+    #work .work-item-three .work-text h3,
+    #work .work-item-five .work-text h3
+    {
+        font-size: 56px;
+        margin-top: -26px;
+        margin-right: 15px;
+    }
+    #work .work-item-one .work-text h4,
+    #work .work-item-three .work-text h4,
+    #work .work-item-five .work-text h4
+    {
+        font-size: 21px;
+        margin-left: -11px;
+    }
+    #work .work-item-one .icon,
+    #work .work-item-three .icon,
+    #work .work-item-five .icon
+    {
+        width: 98px;
+        height: 98px;
+        margin-left: 10px;
+        margin-top: -28px;
+    }
+    #work .work-item-one .icon img,
+    #work .work-item-three .icon img,
+    #work .work-item-five .icon img
+    {
+        width: 55px;
+        margin-top: -10px;
+        margin-left: -12px;
+    }
+    #work .work-item-one p,
+    #work .work-item-three p,
+    #work .work-item-five p
+    {
+        margin-top: -37px;
+        padding-right: 0px;
+    }
+    #work .work-item-two .work-text,
+    #work .work-item-four .work-text
+    {
+        margin-top:44px;
+        margin-left: -44px;
+    }
+    #work .work-item-two .work-text h3,
+    #work .work-item-four .work-text h3 
+    {
+        font-size: 56px;
+        margin-top: -26px;
+        margin-left: 10px;
+    }
+    #work .work-item-two .work-text h4,
+    #work .work-item-four .work-text h4
+    {
+        margin-right: 5px;
+        font-size: 21px;
+    }
+    #work .work-item-two .icon,
+    #work .work-item-four .icon
+    {
+        width: 98px;
+        height: 98px;
+        margin-left: -33px;
+        margin-top: 10px;
+    }
+    #work .work-item-two .icon img,
+    #work .work-item-four .icon img
+    {
+        width: 37px;
+        margin-top: -21px;
+        margin-left: -3px;
+    }
+    #work .work-item-two p,
+    #work .work-item-four p
+    {
+        padding-right: 64px;
+        margin-top: -56px;
+    }
+    /*====================
+     work part ends
+    =====================*/
+
+    /*====================
+     fact part starts
+    =====================*/
+    #fact {
+        padding-top: 60px;
+        padding-bottom: 28px !important;
+    }
+    #fact .fact-head h4 {
+        margin-bottom: 30px !important;
+        font-size: 30px;
+    }
+    #fact .fact-head p {
+        padding: 0px 15px;
+        margin-bottom: 40px !important;
+    }
+    #fact .fact-main {
+        margin-left: 0px;
+    }
+    #fact .fact-item-one h4,
+    #fact .fact-item-two h4,
+    #fact .fact-item-three h4,
+    #fact .fact-item-four h4,
+    #fact .fact-item-five h4
+    {
+        padding-top: 20px;
+        margin-bottom: 18px !important;
+        margin-left: 13px;
+        font-size: 32px;
+    }
+    #fact .fact-item-one,
+    #fact .fact-item-two,
+    #fact .fact-item-three,
+    #fact .fact-item-four,
+    #fact .fact-item-five
+    {
+        width: 173px;
+        height: 225px;
+    }
+    #fact .fact-item-one h5,
+    #fact .fact-item-two h5,
+    #fact .fact-item-three h5,
+    #fact .fact-item-four h5,
+    #fact .fact-item-five h5
+    {
+        margin-left: 12px;
+    }
+    #fact .fact-item-one img,
+    #fact .fact-item-two img,
+    #fact .fact-item-three img,
+    #fact .fact-item-four img,
+    #fact .fact-item-five img
+    {
+        margin-top: 25px;
+        margin-left: 14px;
+    }
+    #fact .fact-item-one img:hover,
+    #fact .fact-item-two img:hover,
+    #fact .fact-item-three img:hover,
+    #fact .fact-item-four img:hover,
+    #fact .fact-item-five img:hover
+    {
+        transform: scale(0.8);
+    }
+    /*====================
+     fact part ends
+    =====================*/
+
+    /*====================
+    people part starts
+    =====================*/
+    #people .button {
+        margin-top: 35px;
+        margin-bottom: 55px !important;
+    }
+    #people .people-head h4 {
+        font-size: 30px;
+        margin-bottom: 20px !important;
+        margin-top: 20px;
+    }
+    #people .people-head p {
+        padding: 0px 14px;
+        margin-bottom: 20px !important;
+    }
+    #people .t-shirt {
+        margin-bottom: 45px !important;
+    }
+    #people .text-left-content {
+        margin-bottom: 90px !important;
+        margin-left: 35px;
+    }
+    #people .text-right-content {
+        margin-bottom: 25px !important;
+        margin-left: 35px;
+    }
+    /*====================
+    people part ends
+    =====================*/
+
+    /*====================
+    gallery part starts
+    =====================*/
+    #gallery ul {
+        margin-top: 15px;
+    }
+    #gallery ul li {
+        margin-right: 12px;
+        padding: 10px 10px;
+        margin-top: 15px;
+    }
+    #gallery ul li a{
+        font-size:15px;
+    }
+    #gallery .gallery-main{
+        margin-top:55px;
+    }
+    /*====================
+    gallery part ends
+    =====================*/
+
+    /*====================
+     price part starts
+    =====================*/
+    #price {
+        padding-bottom: 40px !important;
+    }
+    #price .button {
+        margin-top: 55px;
+        margin-bottom: 55px !important;
+    }
+    #price .price-head h4 {
+        margin-bottom: 35px !important;
+        font-size:30px;
+    }
+    #price .price-head p {
+        padding: 0px 63px;
+        margin-bottom: 85px !important;
+    }
+    #price .price-item-one,
+    #price .price-item-two,
+    #price .price-item-three
+    {
+        width: 360px;
+        height: 654px;
+        margin-bottom: 6px !important;
+        margin-left: 93px;
+    }
+    #price .price-item-one:hover,
+    #price .price-item-two:hover,
+    #price .price-item-three:hover
+    {
+        margin-top:-10px;
+    }
+    #price .price-item-one .price-text h4,
+    #price .price-item-two .price-text h4,
+    #price .price-item-three .price-text h4
+    {
+        padding-top: 25px;
+        padding-bottom: 25px !important;
+    }
+    #price .price-item-one .price-text h5,
+    #price .price-item-two .price-text h5, 
+    #price .price-item-three .price-text h5
+    {
+        font-size: 15px;
+    }
+    #price .price-item-one .price-text h3,
+    #price .price-item-two .price-text h3,
+    #price .price-item-three .price-text h3
+    {
+        font-size: 60px;
+    }
+    #price .price-item-one .price-text h3 span,
+    #price .price-item-two .price-text h3 span,
+    #price .price-item-three .price-text h3 span
+    {
+        font-size: 50px;
+    }
+    #price .price-item-one .price-text p,
+    #price .price-item-two .price-text p,
+    #price .price-item-three .price-text p
+    {
+        padding: 0 14px;
+        padding-bottom: 35px !important;
+    }
+    #price .price-item-one .price-details h4,
+    #price .price-item-two .price-details h4,
+    #price .price-item-three .price-details h4
+    {
+        padding-top: 35px;
+        padding-bottom: 20px !important;
+    }
+    #price .price-item-one .price-details ul li,
+    #price .price-item-two .price-details ul li,
+    #price .price-item-three .price-details ul li
+    {
+        line-height: 24px;
+    }
+    #price .price-item-one .price-details .btn-one a,
+    #price .price-item-two .price-details .btn-one a,
+    #price .price-item-three .price-details .btn-one a
+    {
+        padding: 15px 9px;
+    }
+    /* price part ends */
+
+    /* blog part starts */
+    #price .blog-head{
+        margin-top: -160px;
+    }
+    #price .blog-head h4{
+        margin-bottom: 35px !important;
+        font-size:30px;
+    }
+    #price .blog-head p {
+        padding: 0px 63px;
+        margin-bottom: 50px !important;
+    }
+    #price .newsletter-form .form h5 {
+        padding: 13px 23px;
+    }
+    #price .newsletter-form .text h5 {
+        margin-left: 42px;
+        margin-top: 20px;
+    }
+    #price .blog-item .blog-text {
+        padding-left: 16px;
+        padding-top: 5px;
+        padding-bottom: 6px;
+        margin-left: -82px;
+        margin-right: -18px;
+    }
+    /* blog part ends */
+
+    /*====================
+      price  part ends
+    =====================*/
+
+    /*====================
+      touch  part starts
+    =====================*/
+    #touch {
+        padding-top: 60px;
+        padding-bottom:40px !important;
+    }
+    #touch .touch-head h4 {
+        margin-bottom: 35px !important;
+        font-size:30px;
+    }
+    #touch .touch-head p {
+        padding: 0px 63px;
+        margin-bottom: 50px !important;
+    }
+    /* info part starts */
+    #touch .info-main{
+        padding-top: 45px;
+    }
+    #touch .info-main .info-item i{
+        font-size: 20px;
+    }
+    #touch .info-main .info-item h4{
+       margin-top:15px;
+       margin-bottom:5px !important;
+    }
+    #touch .info-main .info-item p{
+        margin-bottom:35px !important;
+    }
+    #touch input {
+        padding-right: 137px;
+    }
+    #touch .btn {
+        padding: 15px 209px 15px 222px;
+    }
+    /* info part ends */
+    /*====================
+      touch  part ends
+    =====================*/
+
+    /*====================
+      social  part starts
+    =====================*/
+    #social {
+        padding-top: 60px;
+        padding-bottom: 50px !important;
+    }
+    #social .social-icon i {
+        margin-right: 42px;
+    }
+    /*====================
+       social  part ends
+    =====================*/
+}
+/*=====================
+small device ends
+=======================*/
+
+/*=====================
+medium device starts
+=======================*/
+@media(min-width:768px) and (max-width:991px) {
+    /*====================
+       nav part starts
+    =======================*/
+    .navbar .navbar-toggler{
+        border-color: #fff;
+        margin-top: 9px;
+    }
+    .navbar .navbar-toggler i{
+        color:#fff;
+    }
+    /*====================
+       nav part ends
+    =======================*/
+
+    /*====================
+      banner part starts
+    =====================*/
+    #banner{
+        padding-top:180px;
+    }
+    #banner .banner-text h3 {
+        height:100px;
+        font-size: 28px;
+    }
+    #banner .banner-image img {
+        margin-top: -74px;
+        margin-left: 46px;
+        width: 90%;
+    }
+    /*====================
+      banner part ends
+    =====================*/
+
+    /*====================
+     service part starts
+    =====================*/
+    #service {
+        padding-top: 82px;
+        padding-bottom: 197px;
+    }
+    #service .service-head p {
+        padding: 0 48px;
+        font-size: 20px;
+    }
+    #service .heading h4 {
+        padding-top: 90px;
+        padding-bottom: 35px;
+    }
+    #service .heading p {
+        line-height: 23px;
+        padding: 0 63px 0 46px;
+    }
+    #service .service-text {
+        margin-top: 97px;
+        margin-bottom: 42px;
+    }
+    #service .service-text h4 {
+        font-size: 20px;
+    }
+    #service .service-img .img-one img {
+        width: 86%;
+        top: 176px;
+        left: 51px;
+    }
+    #service .service-img .img-two img {
+        width: 72%;
+        right: -6px;
+        top: 198px;
+    }
+    #service .service-img .img-three img {
+        width: 50%;
+        right: 158px;
+        top: 236px;
+    }
+    #service .service-img .img-one-one img {
+        width: 86%;
+        top: 176px;
+        left: -26px;
+    }
+    #service .service-img .img-two-two img {
+        width: 72%;
+        top: 197px;
+        left: -2px;
+    }
+    #service .service-img .img-three-three img {
+        width: 50%;
+        left: 141px;
+        top: 229px;
+    }
+    #service .main-img .cover-one img {
+        width: 95%;
+        margin-left: 47px;
+    }
+    #service .main-img .cover-two img {
+        right: 63px; 
+    }
+    #service .main-img .cover-three img {
+        left: 33px;
+        top: -114px;
+    }
+    #service .arrow-img {
+        margin-top: 7px;
+    }
+    /*====================
+     service part ends
+    =====================*/
+
+    /*====================
+     work part starts
+    =====================*/
+    #work {
+        padding-top: 50px;
+        padding-bottom: 0px !important;
+    }
+    #work .work-head h4{
+        font-size: 28px;
+    }
+    #work .work-head p {
+        padding: 0px 51px;
+        margin-bottom: 75px !important;
+    }
+    #work .work-item-one .work-text h3,
+    #work .work-item-three .work-text h3,
+    #work .work-item-five .work-text h3
+    {
+        font-size: 56px;
+        margin-top: -26px;
+        margin-right: 15px;
+    }
+    #work .work-item-one .work-text h4,
+    #work .work-item-three .work-text h4,
+    #work .work-item-five .work-text h4
+    {
+        font-size: 21px;
+        margin-left: 53px;
+    }
+    #work .work-item-one .icon,
+    #work .work-item-three .icon,
+    #work .work-item-five .icon
+    {
+        width: 98px;
+        height: 98px;
+        margin-left: 32px;
+        margin-top: -28px;
+    }
+    #work .work-item-one .icon img,
+    #work .work-item-three .icon img,
+    #work .work-item-five .icon img
+    {
+        width: 55px;
+        margin-top: -10px;
+        margin-left: -12px;
+    }
+    #work .work-item-one p,
+    #work .work-item-three p,
+    #work .work-item-five p
+    {
+        margin-top: -37px;
+        padding-right: 0px;
+    }
+    #work .work-item-two .work-text,
+    #work .work-item-four .work-text
+    {
+        margin-top:44px;
+        margin-left: -44px;
+    }
+    #work .work-item-two .work-text h3,
+    #work .work-item-four .work-text h3 
+    {
+        font-size: 56px;
+        margin-top: -26px;
+        margin-left: 10px;
+    }
+    #work .work-item-two .work-text h4,
+    #work .work-item-four .work-text h4
+    {
+        margin-right: 100px;
+        font-size: 21px;
+    }
+    #work .work-item-two .icon,
+    #work .work-item-four .icon
+    {
+        width: 98px;
+        height: 98px;
+        margin-left: -28px;
+        margin-top: 10px;
+    }
+    #work .work-item-two .icon img,
+    #work .work-item-four .icon img
+    {
+        width: 37px;
+        margin-top: -21px;
+        margin-left: -3px;
+    }
+    #work .work-item-two p,
+    #work .work-item-four p
+    {
+        padding-right: 64px;
+        margin-top: -13px;
+    }
+    /*====================
+     work part ends
+    =====================*/
+
+    /*====================
+     fact part starts
+    =====================*/
+    #fact {
+        padding-top: 60px;
+        padding-bottom: 28px !important;
+    }
+    #fact .fact-head h4 {
+        margin-bottom: 30px !important;
+        font-size: 30px;
+    }
+    #fact .fact-head p {
+        padding: 0px 15px;
+        margin-bottom: 40px !important;
+    }
+    #fact .fact-main {
+        margin-left: 20px;
+    }
+    #fact .fact-item-one h4,
+    #fact .fact-item-two h4,
+    #fact .fact-item-three h4,
+    #fact .fact-item-four h4,
+    #fact .fact-item-five h4
+    {
+        padding-top: 20px;
+        margin-bottom: 18px !important;
+        margin-left: 13px;
+        font-size: 42px;
+    }
+    #fact .fact-item-one,
+    #fact .fact-item-two,
+    #fact .fact-item-three,
+    #fact .fact-item-four,
+    #fact .fact-item-five
+    {
+        width: 200px;
+        height: 225px;
+    }
+    #fact .fact-item-one h5,
+    #fact .fact-item-two h5,
+    #fact .fact-item-three h5,
+    #fact .fact-item-four h5,
+    #fact .fact-item-five h5
+    {
+        margin-left: 12px;
+        font-size: 14px;
+    }
+    #fact .fact-item-one img,
+    #fact .fact-item-two img,
+    #fact .fact-item-three img,
+    #fact .fact-item-four img,
+    #fact .fact-item-five img
+    {
+        margin-top: 25px;
+        margin-left: 14px;
+    }
+    #fact .fact-item-one img:hover,
+    #fact .fact-item-two img:hover,
+    #fact .fact-item-three img:hover,
+    #fact .fact-item-four img:hover,
+    #fact .fact-item-five img:hover
+    {
+        transform: scale(0.8);
+    }
+    /*====================
+     fact part ends
+    =====================*/
+
+    /*====================
+    people part starts
+    =====================*/
+    #people .button {
+        margin-top: 35px;
+        margin-bottom: 55px !important;
+    }
+    #people .people-head h4 {
+        font-size: 30px;
+        margin-bottom: 20px !important;
+        margin-top: 20px;
+    }
+    #people .people-head p {
+        padding: 0px 14px;
+        margin-bottom: 20px !important;
+    }
+    #people .t-shirt {
+        margin-bottom: 45px !important;
+    }
+    #people .text-left-content {
+        margin-bottom: 90px !important;
+        margin-left: -20px;
+    }
+    #people .text-right-content {
+        margin-bottom: 25px !important;
+        margin-left: 277px;
+    }
+    /*====================
+    people part ends
+    =====================*/
+
+    /*====================
+    gallery part starts
+    =====================*/
+    #gallery ul {
+        margin-top: 15px;
+    }
+    #gallery ul li {
+        margin-right: 5px;
+        padding: 11px 9px;
+        margin-top: 16px;
+    }
+    #gallery ul li a {
+        font-size: 14px;
+    }
+    #gallery .gallery-main{
+        margin-top:55px;
+    }
+    /*====================
+    gallery part ends
+    =====================*/
+
+    /*====================
+     price part starts
+    =====================*/
+    /* price part starts */
+    #price {
+        padding-bottom: 70px !important;
+    }
+    #price .button {
+        margin-top: 65px;
+        margin-bottom: 82px !important;
+    }
+    #price .price-head{
+        margin-top: -30px;
+    }
+    #price .price-head h4 {
+        margin-bottom: 35px !important;
+        font-size:30px;
+    }
+    #price .price-head p {
+	    padding: 0px 121px;
+	    margin-bottom: 85px !important;
+    }
+    #price .price-item-one{
+        margin-left: -16px;
+    }
+    #price .price-item-three{
+        margin-top: 100px;
+        margin-left: 159px;
+    }
+    #price .price-item-three:hover{
+        margin-top:-10px !important;
+    }
+    #price .price-item-one .price-text h3,
+    #price .price-item-two .price-text h3,
+    #price .price-item-three .price-text h3
+    {
+        font-size: 70px;
+    }
+    /* price part ends */
+
+    /* blog part starts */
+    #price .blog-head {
+        margin-top: -60px;
+    }
+    #price .blog-head h4{
+        margin-bottom: 35px !important;
+        font-size:30px;
+    }
+    #price .blog-head p {
+        padding: 0px 21px;
+        margin-bottom: 50px !important;
+    }
+    #price .newsletter-form .form h5 {
+        padding: 13px 22px;
+    }
+    #price .newsletter-form .text h5 {
+        margin-left: 42px;
+        margin-top: 20px;
+    }
+    /* blog part ends */
+    /*====================
+    price part ends
+    =====================*/
+
+    /*====================
+      touch  part starts
+    =====================*/
+    #touch {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+    #touch .touch-head h4 {
+        margin-bottom: 35px !important;
+        font-size:30px;
+    }
+    #touch .touch-head p {
+        padding: 0px 122px;
+        margin-bottom: 75px !important;
+    }
+    #touch .btn {
+        padding: 22px 299px 22px 309px;
+    }
+    /* info part starts */
+    #touch .info-main{
+        padding-top: 45px;
+    }
+    #touch .info-main .info-item i{
+        font-size: 20px;
+    }
+    #touch .info-main .info-item h4{
+        margin-top:15px;
+        margin-bottom:5px !important;
+    }
+    #touch .info-main .info-item p{
+        margin-bottom:35px !important;
+    }
+    /* info part ends */
+    /*====================
+      touch  part ends
+    =====================*/
+
+    /*====================
+      social  part starts
+    =====================*/
+    #social {
+        padding-top: 70px;
+        padding-bottom: 60px !important;
+    }
+    #social .social-icon i {
+        margin-right: 74px;
+    }
+    /*====================
+       social  part ends
+    =====================*/
+}
