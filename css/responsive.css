@@ -13,7 +13,7 @@ extra small device satrts
     }
     .navbar .navbar-toggler {
         border-color: #fff;
-        margin-left: 264px;
+        margin-left: 281px;
         margin-top: -25px;
     }
     .navbar .navbar-toggler i{
@@ -299,7 +299,7 @@ extra small device satrts
         margin-bottom: 40px !important;
     }
     #fact .fact-main {
-        margin-left: 15px;
+        margin-left: 24px;
     }
     #fact .fact-item-one h4,
     #fact .fact-item-two h4,
@@ -475,7 +475,7 @@ extra small device satrts
         width: 284px;
         height: 654px;
         margin-bottom: 6px !important;
-        margin-left: 19px;
+        margin-left: 24px;
     }
     #price .price-item-one:hover,
     #price .price-item-two:hover,
@@ -627,8 +627,9 @@ extra small device satrts
         height: 120px;
     }
     #touch .btn {
-        padding: 10px 105px 10px 111px;
+        padding: 10px 63px 10px 87px;
         font-size: 13px;
+        margin-left: 44px;
     }
     /* info part ends */
     /*====================
